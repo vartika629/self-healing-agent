@@ -13,8 +13,8 @@ applies the fix → runs it again → repeats until the script works (or a safet
 |---|---|
 | **Prachi** | Ideation, project coordination, GitHub repository, documentation |
 | **Vartika** | Built the agent (core loop, sandbox, AI integration, Streamlit app) |
-| **Anushka** | _[add role, e.g. testing / demo scripts]_ |
-| **Chhavi** | _[add role, e.g. presentation / documentation]_ |
+| **Anushka** | testing, demo scripts |
+| **Chhavi** | presentation, documentation |
 
 ---
 
