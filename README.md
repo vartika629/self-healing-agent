@@ -4,9 +4,17 @@ An AI agent that **fixes broken Python scripts by itself**.
 You give it a broken script → it runs it → reads the error → asks an AI for a fix →
 applies the fix → runs it again → repeats until the script works (or a safety limit is hit).
 
-> Project for: Version Control Systems (VCS) – Midterm
-> Team: _[add your names and roll numbers here]_
-> Live demo: _[paste your Streamlit link here after deploying]_
+> **Project for:** Version Control Systems (VCS) – Midterm
+> **Live demo:** <https://self-healing-agent-vartika.streamlit.app>
+
+## 👥 Team
+
+| Member | Role |
+|---|---|
+| **Prachi** | Ideation, project coordination, GitHub repository, documentation |
+| **Vartika** | Built the agent (core loop, sandbox, AI integration, Streamlit app) |
+| **Anushka** | _[add role, e.g. testing / demo scripts]_ |
+| **Chhavi** | _[add role, e.g. presentation / documentation]_ |
 
 ---
 
@@ -58,7 +66,7 @@ flowchart TD
 1. Install **Python 3.11+** and **Git**.
 2. Clone the repo and enter the folder:
    ```bash
-   git clone https://github.com/<your-username>/self-healing-agent.git
+   git clone https://github.com/vartika629/self-healing-agent.git
    cd self-healing-agent
    ```
 3. Install the libraries:
@@ -93,7 +101,7 @@ Want to use Groq instead? Set `LLM_PROVIDER=groq` and `GROQ_API_KEY=...` in `.en
 
 ## 📸 Screenshots
 
-_Add screenshots here after you run the app:_
+_Add screenshots to a `screenshots/` folder and they will show up below:_
 - `screenshots/home.png` – main screen
 - `screenshots/attempts.png` – live attempts with diff
 - `screenshots/success.png` – final result
