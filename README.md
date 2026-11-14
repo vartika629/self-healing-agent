@@ -11,7 +11,7 @@ applies the fix → runs it again → repeats until the script works (or a safet
 
 | Member | Role |
 |---|---|
-| **Prachi** | Ideation, project coordination, GitHub repository, documentation |
+| **Prachi** | Ideation, GitHub repository, documentation |
 | **Vartika** | Built the agent (core loop, sandbox, AI integration, Streamlit app) |
 | **Anushka** | testing, demo scripts |
 | **Chhavi** | presentation, documentation |
